@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some queries proposed by W.A. to the late flovvn shepherds, with a desire of an answer from them to these queries, so that their discontented sheep may have some satisfaction why they left them, when the visiting hand of the Lord was amongst them.</title>
+            <author>W. A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08243</idno>
+            <idno type="STC">Wing A35C</idno>
+            <idno type="STC">ESTC R224268</idno>
+            <idno type="EEBO-CITATION">64550742</idno>
+            <idno type="OCLC">ocm 64550742</idno>
+            <idno type="VID">184284</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08243)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184284)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2857:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some queries proposed by W.A. to the late flovvn shepherds, with a desire of an answer from them to these queries, so that their discontented sheep may have some satisfaction why they left them, when the visiting hand of the Lord was amongst them.</title>
+                  <author>W. A.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to W. A.  Cf. Wing (2nd ed.).</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shepherds in the Bible --  Early works to 1800.</term>
+               <term>Angels --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:184284:1" rendition="simple:additions"/>
+            <head>SOME QUERIES Propoſed by <hi>W. A.</hi> To the late Flovvn SHEPHERDS, With a deſire of an Anſwer from them to theſe QUERIES, ſo that their diſcontented Sheep may have ſome ſatisfaction why they left them, when the Viſiting hand of the Lord was amongſt them.</head>
+            <p n="1">1. VVHether thoſe Shepherds as fled when the Lords Viſita<g ref="char:EOLhyphen"/>tion was amongſt the ſheep, are not fooliſh Shpherds, ſuch as the Prophet <hi>Zachariah</hi> ſpoke of, and that in theſe words, <hi>The Lord ſaid unto me, Take to thee yet the Inſtruments of a fooliſh Shepherd; for lo I will raiſe up a Shepherd in the Land, which ſhall not look for the thing that is loſt, nor ſeek to tender the Lambs, nor heal that that is hurt, nor feed that that ſtandeth up.</hi> O Idle Shepherds, that leaveth the Flock, his Arm ſhall be dryed up, and his right eye ſhall be utter<g ref="char:EOLhyphen"/>ly darkned; whether ſuch can be ſaid to pity the ſheep, that fleeth? or rather may they not be ſaid to be no Shepherds, but hirelings, according to Chriſts words, <hi>But an Hireling, and he which is not the Shepherd, neither the ſheep his own, fleeth; the Hireling fleeth, becauſe he is an Hireling, and careth not for the ſheep,</hi> Zach. 11. 15, 16, 17. <hi>John</hi> 10. 12, 13.</p>
+            <p n="2">2. Whether a true Shepherd abideth not with the flock when the Viſita<g ref="char:EOLhyphen"/>tion of the Lord is amongſt them? And if any of the ſheep be ſick, and they are ſent for, they viſit them not? According to the Apoſtle <hi>James</hi>'s words, <hi>Is any ſick among you, let him call for the Elders of the Church, and let them pray for him, and annoint him with oyl in the Name of the Lord.</hi> And whether this was not the practiſe of Chriſt and his Apoſtles, when on earth they caſt out many Devils, and annointed many w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th oyl, and healed them? Chriſt went about doing of good, and healing all that was ſick. Whether are not Goſpel-Miniſters to be like Ch<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſt and the Apoſtles? Or, whether are ſuch Shepherds that ſeeth, like unto <hi>Aaron?</hi> for he took the Cenſer, and put fire therein, and went quickly into the Congrega<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, and made an Attonement for them; for there was wrath gone from the Lord, the Plague was begun, he ſtood betwixt the living and the dead, and the Plague was ſtayed. This is the advice of the Apoſtle <hi>Paul</hi> to the Elders of the Church of God, That they take heed to themſelves, and unto all the Flock where<g ref="char:EOLhyphen"/>of the Holy Ghoſt had made them overſeers, to feed them, and that ſo la<g ref="char:EOLhyphen"/>labouring, they ought to ſupport the weak. Mind theſe Scriptures, <hi>James</hi> 14. 15. <hi>Mark.</hi> 6. 13. <hi>Matth.</hi> 8. 16. <hi>Numb.</hi> 16. 45, 47, 48. <hi>Acts</hi> 20. 28, 35.</p>
+            <p n="3">3. Whether Chriſts Shepherds hearken not to his Voice? And whe<g ref="char:EOLhyphen"/>ther this is not the Voice of Chriſt, that the Shepherd ſhould abide with the Flock, eſpecially when the Lords Viſitation is among them? And whether that Complaint may not be made of ſuch as leave their Flocks in this Go<g ref="char:EOLhyphen"/>ſpel Age, as was of them under the Law, and that in theſe words, <hi>The weak have ye not ſtrengthened; the ſick have ye not healed, neither have you bound up the broken?</hi> And whether the ſick hath not more need than the whole, of the Phyſician? According to Chriſts words, <hi>The whole need not the Phyſician, but they that are ſick:</hi> Go ye, and learn what this means, <hi>I will have mercy, and not ſacrifice,</hi> Ezek. 34. 4 Matth. 9. 12, 13.</p>
+            <p n="4">4. Whether thoſe Shepherds who flee from their ſheep when the Lords hand is amongſt them, are not deſtroyers, more than helpers of the Flock, and ſo not like Chriſt, the Apoſtles and Prophets? And whether they are not ſuch as they have propheſied of, who leave their ſheep, that rule with cruelty and rigor, that thruſt with their ſide, and with their ſhoulders, and puſh all the weak with their horns, till they have ſcattered them? Whether the Saints are not to be aware of ſuch, according to Chriſts words, <hi>Beware of falſe Prophets, which come to you in ſheeps Clothing, but inwardly they are ravening Wolves.</hi> And as the Apoſtle ſaith, <hi>I know this, that after my departure, grievous Wolves ſhall enter in among you,</hi> Ezek. 34. 4, 21. <hi>Matth.</hi> 7. 15, 16. <hi>Acts</hi> 20. 29.</p>
+            <p n="5">V. Whether ſuch Shepherds may not be ſaid to be more Lovers of themſelves, then of God, having but a ſhew of Godlineſs, but deny<g ref="char:EOLhyphen"/>ing the power thereof? And whether they may not be ſuch as receive the Wages of Unrighteouſneſs, and followeth the wayes of <hi>Balaam?</hi> And whether the Apoſtles Words were not verified of ſuch, that the deſire of money, is the root of all evil, which which while ſome have luſted after, they erred from the faith, and pierce themſelves through with many for<g ref="char:EOLhyphen"/>rows, 2 <hi>Tim.</hi> 3. 4, 5. 2 <hi>Pet.</hi> 2. 13, 15. <hi>Jude</hi> 11. <hi>Tit.</hi> 1. 11. 1 <hi>Tim.</hi> 6. 10.</p>
+            <p n="6">VI. Whether ſuch as flye from their ſheep, come in at the door into the ſheep-fold, or do not clime up ſome other way? And whether the ſheep of Chriſt will hear the voice of ſuch? Or, whether they will not flye from ſuch, not knowing their Voice? And whether the voice of Chriſt, and the voice of ſuch Shepherds, are not contrary the one to the other, <hi>John</hi> 10.</p>
+            <p n="7">VII. Whether ſuch Shepherds as leave their Flock, Chriſt will not ſay, to ſuch in that day, <hi>Go ye curſed; for when I was ſick, ye viſited me not?</hi> And whether that wo as God hath pronounced in <hi>Ezek.</hi> 34. will not fall on ſuch as leave their Flock? and whether the Lord will not require the ſheep at the hands of ſuch Shepherds? Mind <hi>Ezek.</hi> 34. <hi>Matth.</hi> 25. 41, 43.</p>
+            <p n="8">VIII. Whether that Obſervation by the Shepherd<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the ſheep, were true, upon the late Commet or Blazing Star, in ſaying, That it ſignifies Mercy, and not Judgement; Good and not Evil? and whether the ſaid Shepherd had learned that of God, to quote for the Truth of what he ſaid, The Star that appeared to the wiſe men of the Eaſt, which directed them to Chriſt? and if ſo, why then did this ſhepherd flee from his ſheep, when the Lords Viſitation was on them? and whether that Shepherd had any ſufficient warrant to leave his Flock, from the Apoſtles words, 1 <hi>T<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</hi> 5. 8. and whether the Flock of Chriſt, and the ſhepherd; be not all one Fa<g ref="char:EOLhyphen"/>mily? If ſo, then whether that ſhepherd as fleeth from his Flock, is not worſe than an Infidel, and denieth the Faith, as the Apoſtle hath ſaid? Or whether that was rightly obſerved by the ſhepherd to the Flock, <hi>If thou art perſecuted in one City, flye to another?</hi> whether it is a true Shepherds pra<g ref="char:EOLhyphen"/>ctiſe? Or, whether a true Shepherd counts God his Enemy? Or, whether Chriſt in the foreſaid Chapter, ſpeaks of God, or the Enemies of his Church?</p>
+            <lg>
+               <l>To you, O Shepherds, that did flye, I this do ſay,</l>
+               <l>Repent, and turn to God without delay;</l>
+               <l>For if you do not, ſure I am,</l>
+               <l>Of Gods juſt Judgment you ſhall taſt ere long.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
